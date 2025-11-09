@@ -68,4 +68,4 @@ step 1 : Use the `ls`  command
 
 step2 : Now use  `cat` use read the content in the file, then you will find the password
 
-![bandit0.png](attachment:dc6e38b1-29eb-4d07-b2cb-3cfed4e90cc5:bandit0.png)
+![image alt](https://github.com/SongaPraneeth/CTF/blob/9dbf7561c5a98ecabea3c0fad1fdcf4b3a8b4783/CTFs%20Write%20ups/images/bandit_images/bandit0.png)
