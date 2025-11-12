@@ -4,11 +4,11 @@ Logging in to bandit26 from bandit25 should be fairly easy… The shell for user
 
 Steps to solve:
 
-step1: first use ls to find any files and then after using we will find bandit26.sshkey
+step1: first use `ls` to find any files and then after using we will find bandit26.sshkey
 
-step2: so we know that the bandit 26 shell is not /bin/bash . so find the shell by searching in the /etc/passwd because it stores the type of shell. So now use command `cat /etc/passwd | grep “bandit26”` 
+step2: so we know that the bandit 26 shell is not `/bin/bash` . so find the shell by searching in the `/etc/passwd` because it stores the type of shell. So now use command `cat /etc/passwd | grep “bandit26”` 
 
-step3: we will know that the shell the bandit 26 is using is /usr/bin/showtext. Use cat /usr/bin/showtext to see the contents
+step3: we will know that the shell the bandit 26 is using is `/usr/bin/showtext`. Use `cat /usr/bin/showtext` to see the contents
 
 ![image alt](https://github.com/SongaPraneeth/CTF/blob/3d95217f6498d1b845e4fcc465afe215e5eea7c1/CTFs%20Write%20ups/images/bandit_images/bandit25.png)
 
