@@ -9,7 +9,7 @@ step2: After executing the above two commands we will get a directory, now enter
 
 step3: To run the rusts file first we have to compile it, so use command `cargo build` and to run use command `cargo run`, now while compiling we will get a error called calling unsafe function
 
-step4: Now use a editor and enter the file and you will some comments and a link, open the link and read, now you will know what to do . 
+step4: Now use a editor and open the file and you will some comments and a link, open the link and read, now you will know what to do . 
 
 ![image alt](https://github.com/SongaPraneeth/CTF/blob/c824508bf9d7b599bf5b595dfc609c2db1d0c2b2/CTFs%20Write%20ups/images/picoctf_images/general/Easy/Rust_fixme3_1.png)
 
