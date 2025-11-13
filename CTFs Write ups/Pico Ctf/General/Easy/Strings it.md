@@ -1,8 +1,8 @@
-Description:
+**Description**: 
 
 Can you find the flag in file without running it?
 
-Steps to solve:
+**Steps to solve:**
 
 step1: By using command `file`, we find that the file `strings` is a executable file. But in description is said that we have to find flag without running the file.
 

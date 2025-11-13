@@ -1,7 +1,7 @@
-Description:
+**Description**: 
 Have you heard of Rust? Fix the syntax errors in this Rust file to print the flag! Download the Rust code.
 
-Steps to solve: 
+**Steps to solve:** 
 
 step1: After downloading the we see that the file is compressed and archived, so first we use command `gzip -d fixme1.tar.gz` and `tar -xf fixme1.tar`
 

@@ -1,8 +1,8 @@
-Description:
+**Description**: 
 
 Fix the syntax error in this Python script to print the flag.
 
-Steps to solve:
+**Steps to solve:**
 
 Step1: Lets run the code and see that is the error is being thrown, so use command `python3 fixme1.py` and run the file 
 

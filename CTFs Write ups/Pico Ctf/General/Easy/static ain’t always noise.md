@@ -1,7 +1,7 @@
-Description
+**Description**: 
 Can you look at the data in this binary: static? This BASH script might help!
 
-Steps to solve:
+**Steps to solve:**
 
 step1: we see that static file is executable with command `file static`
 

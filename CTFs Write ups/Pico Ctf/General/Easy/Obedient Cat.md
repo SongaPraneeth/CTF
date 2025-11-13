@@ -1,8 +1,8 @@
-Description:
+**Description**: 
 
 his file has a flag in plain sight (aka "in-the-clear")
 
-Steps to solve: 
+**Steps to solve:** 
 
 step1: Download the file
 

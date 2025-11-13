@@ -1,8 +1,8 @@
-Description:
+**Description**: 
 
 Can you invoke help flags for a tool or binary? This program has extraordinarily helpful information...
 
-Steps to solve:
+**Steps to solve:**
 
 step1: Using the command `file` warm we will know that the file is executable
 

@@ -1,10 +1,10 @@
-Description:
+**Description**: 
 
 How well can you perform basic binary operations?
 
 Additional details will be available after launching your challenge instance.
 
-Steps to solve:
+**Steps to solve:**
 
 step1: After pressing launch instance, we will get a command `nc titan.picoctf.net 50421` (it can be different), run this command and you will get two binary numbers(binary numbers will be different, each time you run the command)
 

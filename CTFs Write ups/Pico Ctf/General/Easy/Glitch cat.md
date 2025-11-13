@@ -1,8 +1,8 @@
-Description:
+**Description**: 
 
 Our flag printing service has started glitching! Additional details will be available after launching your challenge instance.
 
-Steps to solve:
+**Steps to solve:**
 
 step1: Click the Launch Instance and you will get a command like `nc [saturn.picoctf.net](http://saturn.picoctf.net/) 58247`  
 

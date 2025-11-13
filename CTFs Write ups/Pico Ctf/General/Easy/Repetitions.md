@@ -1,8 +1,8 @@
-Description: 
+**Description**: 
 
 Can you make sense of this file?
 
-Steps to solve:
+**Steps to solve:**
 
 step1: After you have downloaded the file, see what is inside the file using the command `cat enc_flag`
 

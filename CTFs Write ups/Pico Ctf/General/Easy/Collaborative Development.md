@@ -1,8 +1,7 @@
-Description:
-
+**Description**: 
 My team has been working very hard on new features for our flag printing program! I wonder how they'll work together? 
 
-Steps to solve:
+**Steps to solve:**
 
 step1: To unzip the challenge.zip folder use command `unzip challenge.zip` and after un zipping the folder you will get a folder called `drop-in`
 

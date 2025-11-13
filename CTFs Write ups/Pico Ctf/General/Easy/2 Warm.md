@@ -1,8 +1,8 @@
-Description: 
+**Description**: 
 
 Can you convert the number 42 (base 10) to binary (base 2)? 
 
-Steps to solve:
+**Steps to solve:**
 
 step1: Use any online website to convert and the flag will be picoCTF{101010}
 

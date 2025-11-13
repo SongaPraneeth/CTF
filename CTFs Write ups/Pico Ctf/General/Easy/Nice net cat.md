@@ -1,8 +1,8 @@
-Description:
+**Description**: 
 
 There is a nice program that you can talk to by using this command in a shell: $ nc [mercury.picoctf.net](http://mercury.picoctf.net/) 49039, but it doesn't speak English.
 
-Steps to solve:
+**Steps to solve:**
 
 step1: use the command `nc [mercury.picoctf.net](http://mercury.picoctf.net/) 49039` and you will get decimal values
 

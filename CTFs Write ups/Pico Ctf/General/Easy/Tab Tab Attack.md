@@ -1,9 +1,7 @@
-Description:
-
+**Description**: 
 Using tabcomplete in the Terminal will add years to your life, esp. when dealing with long rambling directory structures and filenames.
 
-Steps to solve:
-
+**Steps to solve:**
 step1: Download the file and unzip the file using the command `unzip Addadshashanammu.zip`
 
 step2: Now you will get a directory, so enter the directory using the command `cd Addadshashanammu`

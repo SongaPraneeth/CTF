@@ -1,8 +1,8 @@
-Description:
+**Description**: 
 
 Someone's commits seems to be preventing the program from working. Who is it?
 
-Steps to solve:
+**Steps to solve:**
 
 step1: Download challenge file
 

@@ -1,8 +1,8 @@
-Description:
+**Description**: 
 
 Run the Python script `code.py` in the same directory as `codebook.txt`
 
-Steps to solve:
+**Steps to solve:**
 
 step1: Run the `code.py` with command  `python3 code.py` and you will get the flag
 

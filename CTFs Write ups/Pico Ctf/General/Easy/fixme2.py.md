@@ -1,7 +1,7 @@
-Description:
+**Description**: 
 Fix the syntax error in the Python script to print the flag.
 
-Steps to solve:
+**Steps to solve:**
 
 step1: Download the file and run the file using command `python3 fixme2.py`
 

@@ -1,10 +1,10 @@
-Description:
+**Description**: 
 
 Know of little and big endian? 
 
 Additional details will be available after launching your challenge instance.
 
-Steps to solve:
+**Steps to solve:**
 
 Step1: Press launch instance will get a command  `nc titan.picoctf.net 53528` , copy this command and run on the terminal
 

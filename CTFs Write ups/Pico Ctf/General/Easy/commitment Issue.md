@@ -1,8 +1,8 @@
-Description:
+**Description**: 
 
 I accidentally wrote the flag down. Good thing I deleted it!
 
-Steps to solve:
+**Steps to solve:**
 
 step1: unzip the challenge.zip file using command `unzip challenge.zip` and you will get a folder `drop-in`, now enter the folder using command `cd drop-in`.
 

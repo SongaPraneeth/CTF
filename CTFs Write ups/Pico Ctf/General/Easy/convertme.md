@@ -1,8 +1,7 @@
-Description:
-
+**Description**: 
 Run the Python script and convert the given number from decimal to binary to get the flag.
 
-Steps to solve:
+**Steps to solve:**
 
 step1: Run the python code using command `python3 convertme.py`
 

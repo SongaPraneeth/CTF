@@ -1,8 +1,8 @@
-Description:
+**Description**: 
 
 Python scripts are invoked kind of like programs in the Terminal... Can you run this Python script using this password to get the flag?
 
-Steps to solve:
+**Steps to solve:**
 
 step1 : After download we get python script is `ende.py` , password is `pw.txt` flag is `flag.txt.en`
 

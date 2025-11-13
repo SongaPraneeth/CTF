@@ -1,8 +1,8 @@
-Description:
+**Description**: 
 
 Can you crack the password to get the flag? Download the password checker file and you'll need the encrypted file in the same directory too.
 
-Steps to solve:
+**Steps to solve:**
 
 Step1: After downloading the files, see what is present in both the files using the cat command `cat level2.flag.txt.enc` and `cat level2.py`
 

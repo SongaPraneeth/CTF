@@ -1,8 +1,8 @@
-Description:
+**Description**: 
 
 Can you crack the password to get the flag? Download the password checker file and you'll need the encrypted file in the same directory too.
 
-Steps to solve:
+**Steps to solve:**
 
 Step1: After you have download the both the files, we can see that one file is encrypted `level1.txt.enc` and another file is python file (password checker), `level1.py`
 

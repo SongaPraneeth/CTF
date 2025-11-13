@@ -1,8 +1,8 @@
-Description:
+**Description**: 
 
 Can you find the flag in file? This would be really tedious to look through manually, something tells me there is a better way.
 
-Steps to solve:
+**Steps to solve:**
 
 Step1: Use command grep to catch the flag, using command `cat file | grep “pico”` and you will get the flag.
 

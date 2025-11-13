@@ -1,8 +1,8 @@
-Description:
+**Description**: 
 
 If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?
 
-Steps to solve:
+**Steps to solve:**
 
 step1: use any website to convert or we can use python in the terminal, lets go with the python.
 
