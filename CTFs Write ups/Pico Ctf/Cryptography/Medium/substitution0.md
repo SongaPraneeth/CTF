@@ -54,6 +54,7 @@ now if you want to encrypt a message let's take : `HELLO`
 
 Now: 
 
+```
 A → E
 B → F
 C → G
@@ -80,9 +81,11 @@ W → A
 X → B
 Y → C
 Z → D
+```
 
 So, for `HELLO`
 
+```
 H  → L
 
 E  → I
@@ -92,6 +95,7 @@ L  → P
 L  → P
 
 O → S
+```
 
 encrypted = `LIPPS`
 
@@ -99,6 +103,7 @@ so, to decrypt the cipher text `LIPPS`, we need the same `key`:
 
 Now :
 
+```
 E → A
 F → B
 G → C
@@ -125,9 +130,11 @@ A → W
 B → X
 C → Y
 D → Z
+```
 
 So, for `LIPPS`
 
+```
 L  → H
 
 I  → E
@@ -137,6 +144,7 @@ P  → L
 P  → L
 
 S  → O
+```
 
 decrypted = `HELLO`
 
