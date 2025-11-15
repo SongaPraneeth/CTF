@@ -4,7 +4,7 @@ This vault uses some complicated arrays! I hope you can make sense of it, specia
 
 Steps to solve:
 
-step1: Here we have a java file, lets see what inside the file using cat VaultDoor1.java
+step1: Here we have a java file, lets see what inside the file using `cat VaultDoor1.java`
 
 step2: Here in the code, 
 
